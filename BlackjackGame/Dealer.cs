@@ -6,7 +6,12 @@ namespace BlackjackGame
 {
     public class Dealer
     {
-        Hand hand = new Hand();
+        private readonly Hand hand;
+
+        public Dealer()
+        {
+            hand = new Hand();
+        }
 
         /// <summary>
         /// Take the top card from HiddenCards, remove it, and add it to RevealedCards.

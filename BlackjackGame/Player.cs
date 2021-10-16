@@ -6,7 +6,12 @@ namespace BlackjackGame
 {
     public class Player
     {
-        Hand hand = new Hand();
+        private readonly Hand hand;
+
+        public Player()
+        {
+            hand = new Hand();
+        }
 
         /// <summary>
         /// Add Player's chips to their bet.
