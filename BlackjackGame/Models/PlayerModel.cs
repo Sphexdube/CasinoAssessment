@@ -1,4 +1,4 @@
-﻿using BlackjackGame.Service;
+﻿using BlackjackGame.Services;
 using System.Collections.Generic;
 
 namespace BlackjackGame.Models

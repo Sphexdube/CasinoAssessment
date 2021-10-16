@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace BlackjackGame.Service
+namespace BlackjackGame.Services
 {
     public class Hand
     {

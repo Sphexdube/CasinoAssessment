@@ -1,7 +1,7 @@
 ﻿using BlackjackGame.Enums;
 using System;
 
-namespace BlackjackGame.Service
+namespace BlackjackGame.Services
 {
     /// <summary>
     /// This file contains the code for the Card class.

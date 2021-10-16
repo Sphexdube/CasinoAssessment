@@ -1,5 +1,5 @@
 ﻿using BlackjackGame.Models;
-using BlackjackGame.Service;
+using BlackjackGame.Services;
 using System;
 
 namespace BlackjackGame

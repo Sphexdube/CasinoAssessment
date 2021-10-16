@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Threading;
 
-namespace BlackjackGame.Service
+namespace BlackjackGame.Services
 {
     public class Casino
     {

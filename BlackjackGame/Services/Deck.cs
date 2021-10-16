@@ -1,9 +1,8 @@
 ﻿using BlackjackGame.Enums;
-using BlackjackGame.Service;
 using System;
 using System.Collections.Generic;
 
-namespace BlackjackGame.Service
+namespace BlackjackGame.Services
 {
     public class Deck
     {
